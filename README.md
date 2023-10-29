@@ -11,7 +11,7 @@ If using anything from this repository, please cite the paper:
 Fink, L. (2023). Eye movement patterns when playing from memory: Examining consistency across repeated performances and the relationship between eyes and audio. *Proceedings of the 17th International Conference for Music Perception & Cognition (ICMPC17-APSCOM7), Aug. 24-28,* p. 1-6. 
 
 ## Usage
-The example code `Fink_ICMPC2023_analyses.m` is provided for example purposes only. Data files are not included in the repository, meaning the code will not run as is. 
+The script `Fink_ICMPC2023_analyses.m` is provided for example purposes only. Data files are not included in the repository, meaning the code will not run as is. 
 
 Additionally, the code relies on third-party toolboxes to calculate the Matrix Profile. Please check this page for the latest information on the matrix profile: [https://www.cs.ucr.edu/~eamonn/MatrixProfile.html](https://www.cs.ucr.edu/~eamonn/MatrixProfile.html)
 
