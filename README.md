@@ -17,8 +17,10 @@ Additionally, the code relies on third-party toolboxes to calculate the Matrix P
 
 #### Schematic example of Matrix Profile Usage
 The figure below details the process steps one could use to index audio from eye movement motifs. 
-Example audio files are provided for the differently colored examples. You should be able to hear that the audio passages identified by similarity in eye movement patterns are remarkably similar to each other (though not exactly the same). 
+Example audio files are provided for the differently colored examples. You should be able to hear that the audio passages identified by similarity in eye movement patterns are remarkably similar to each other (though not exactly the same). Audio files, named by color-coding in the figure below are included in the `media` folder. 
 
 ![image](/media/ICMPC_motifs.png)
+
+
 
 
